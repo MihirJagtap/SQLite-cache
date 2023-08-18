@@ -1,4 +1,4 @@
-# CS 564 Project 2: SQLite Page Cache
+# SQLite Page Cache
 
 ## Overview
 
