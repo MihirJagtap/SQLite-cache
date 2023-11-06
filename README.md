@@ -1,6 +1,6 @@
 # SQLite Page Cache
 
-source codes are located in the [projects]([https://github.com/uwmadison-cs564/project/tree/main/src/projects](https://github.com/MihirJagtap/SQLite-cache/tree/main/src/projects/2-page-cache) directory.
+
 
 ## Overview
 
